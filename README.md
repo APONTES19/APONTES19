@@ -13,8 +13,7 @@ Projetos
 
 <div align="right">
   <a href="https://www.linkedin.com/in/apontes19"><img src="https://raw.githubusercontent.com/APONTES19/APONTES19/main/lib/img/LINKEDIN%20LOGO.png" width="3%" alt="linkedin Lucas Martins"></a>  
-    <a href="https://www.linkedin.com/in/apontes19"><img src="https://raw.githubusercontent.com/APONTES19/APONTES19/main/lib/img/GMAIL%20LOGO.png" width="4%" alt="Email"></a>  
+    <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=apontes19@gmail.com"><img src="https://raw.githubusercontent.com/APONTES19/APONTES19/main/lib/img/GMAIL%20LOGO.png" width="4%" alt="Email"></a>  
     <a href="https://www.linkedin.com/in/apontes19"><img src="https://raw.githubusercontent.com/APONTES19/APONTES19/main/lib/img/DISCORD%20LOGO.png" width="4%" alt="linkedin Lucas Martins"></a>  
-    <a href="https://www.linkedin.com/in/apontes19"><img src="https://raw.githubusercontent.com/APONTES19/APONTES19/main/lib/img/LOGO%20SITE%20LUCAS.png" width="3%" alt="linkedin Lucas Martins"></a>     
-    <a href = "https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=rickyamas@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/apontes19"><img src="https://raw.githubusercontent.com/APONTES19/APONTES19/main/lib/img/LOGO%20SITE%20LUCAS.png" width="3%" alt="linkedin Lucas Martins"></a>
 </div>
