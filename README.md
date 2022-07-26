@@ -14,6 +14,6 @@ Projetos
 <div align="right">
   <a href="https://www.linkedin.com/in/apontes19"><img src="https://raw.githubusercontent.com/APONTES19/APONTES19/main/lib/img/LINKEDIN%20LOGO.png" width="3%" alt="linkedin Lucas Martins"></a>  
     <a href="https://www.linkedin.com/in/apontes19"><img src="https://raw.githubusercontent.com/APONTES19/APONTES19/main/lib/img/GMAIL%20LOGO.png" width="4%" alt="Email"></a>  
-    <a href="https://www.linkedin.com/in/apontes19"><img src="https://raw.githubusercontent.com/APONTES19/APONTES19/main/lib/img/LINKEDIN%20LOGO.png" width="3%" alt="linkedin Lucas Martins"></a>  
+    <a href="https://www.linkedin.com/in/apontes19"><img src="https://raw.githubusercontent.com/APONTES19/APONTES19/main/lib/img/DISCORD%20LOGO.png" width="4%" alt="linkedin Lucas Martins"></a>  
     <a href="https://www.linkedin.com/in/apontes19"><img src="https://raw.githubusercontent.com/APONTES19/APONTES19/main/lib/img/LINKEDIN%20LOGO.png" width="3%" alt="linkedin Lucas Martins"></a>  
 </div>
