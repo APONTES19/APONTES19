@@ -15,5 +15,6 @@ Projetos
   <a href="https://www.linkedin.com/in/apontes19"><img src="https://raw.githubusercontent.com/APONTES19/APONTES19/main/lib/img/LINKEDIN%20LOGO.png" width="3%" alt="linkedin Lucas Martins"></a>  
     <a href="https://www.linkedin.com/in/apontes19"><img src="https://raw.githubusercontent.com/APONTES19/APONTES19/main/lib/img/GMAIL%20LOGO.png" width="4%" alt="Email"></a>  
     <a href="https://www.linkedin.com/in/apontes19"><img src="https://raw.githubusercontent.com/APONTES19/APONTES19/main/lib/img/DISCORD%20LOGO.png" width="4%" alt="linkedin Lucas Martins"></a>  
-    <a href="https://www.linkedin.com/in/apontes19"><img src="https://raw.githubusercontent.com/APONTES19/APONTES19/main/lib/img/LINKEDIN%20LOGO.png" width="3%" alt="linkedin Lucas Martins"></a>  
+    <a href="https://www.linkedin.com/in/apontes19"><img src="https://raw.githubusercontent.com/APONTES19/APONTES19/main/lib/img/LOGO%20SITE%20LUCAS.png" width="3%" alt="linkedin Lucas Martins"></a>     
+    <a href = "rickyamas@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
