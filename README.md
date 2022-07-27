@@ -1,5 +1,5 @@
 <img src="https://raw.githubusercontent.com/APONTES19/APONTES19/main/lib/img/BANNER%20GITHUB.png" width="100%" title="Lucas Martins Apontes" alt="Engenheiro de software">
-
+<h2>Perfil em construção !</h2>
 <h2>Bem vindo ao meu perfil !</h2>
 <div align="right">
 <a href="https://www.youtube.com/watch?v=E5khSk-Q95gE" target=”_blank”>
@@ -44,10 +44,10 @@ width="6%" alt="Projetos em Java Lucas Martins"></a>
 </div>
 
 <h2>Excel<a name="Excel"></a></h2>
-leva para esses projetos
+Leva para esses projetos
 
 <h2>Acess<a name="Acess"></a></h2>
-projetos desenvolvidos em acess
+Projetos desenvolvidos em acess
 
 <h2>VBA<a name="VBA"></a></h2>
 Projetos em VBA
