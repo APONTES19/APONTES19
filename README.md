@@ -8,8 +8,9 @@
  
   <tr>    
     <td>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-    <img src="https://github.com/APONTES19/APONTES19/blob/main/lib/img/LOGO%20EXCEL.png" />  
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+    <img src="https://github.com/APONTES19/APONTES19/blob/main/lib/img/LOGO%20EXCEL.png">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">          
     </td>    
     <td>
         <div align="right">
