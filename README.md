@@ -44,13 +44,13 @@ width="6%" alt="Projetos em Java Lucas Martins"></a>&#160  &#160
 </div>
 
 <h2>Excel<a name="Excel"></a></h2>
-Leva para esses projetos
+Em breve projetos construidos em Excel!
 
 <h2>Acess<a name="Acess"></a></h2>
-Projetos desenvolvidos em acess
+Em breve projetos desenvolvidos em acess!
 
 <h2>VBA<a name="VBA"></a></h2>
-Projetos em VBA
+Em breve Projetos em VBA!
 
 <h2>C<a name="C"></a></h2>
 <a href="https://github.com/APONTES19/APONTES19/blob/main/42SP_README.md">
