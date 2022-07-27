@@ -29,6 +29,12 @@ width="3%" alt="linkedin Lucas Martins"></a><br></br>
 <a href="#Excel">
 <img src="https://github.com/APONTES19/APONTES19/blob/main/lib/img/LOGO%20EXCEL.png"
 width="6%" alt="Projetos em Excel Lucas Martins"></a>
+<a href="#Acess">
+<img src="https://github.com/APONTES19/APONTES19/blob/main/lib/img/LOGO%20ACESS.png"
+width="6%" alt="Projetos em Acess Lucas Martins"></a>
+<a href="#VBA">
+<img src="https://github.com/APONTES19/APONTES19/blob/main/lib/img/LOGO%20VBA.png"
+width="6%" alt="Projetos em VBA Lucas Martins"></a>
 <a href="#C">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"
 width="6%" alt="Projetos em C Lucas Martins"></a>
