@@ -28,19 +28,19 @@ width="3%" alt="linkedin Lucas Martins"></a><br></br>
 <div align="left">
 <a href="#Excel">
 <img src="https://github.com/APONTES19/APONTES19/blob/main/lib/img/LOGO%20EXCEL.png"
-width="6%" alt="Projetos em Excel Lucas Martins"></a>
+width="6%" alt="Projetos em Excel Lucas Martins"></a>&#160  &#160 
 <a href="#Acess">
 <img src="https://github.com/APONTES19/APONTES19/blob/main/lib/img/LOGO%20ACESS.png"
-width="6%" alt="Projetos em Acess Lucas Martins"></a>
+width="6%" alt="Projetos em Acess Lucas Martins"></a>&#160  &#160 
 <a href="#VBA">
 <img src="https://github.com/APONTES19/APONTES19/blob/main/lib/img/LOGO%20VBA.png"
-width="6%" alt="Projetos em VBA Lucas Martins"></a>
+width="6%" alt="Projetos em VBA Lucas Martins"></a>&#160  &#160 
 <a href="#C">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"
-width="6%" alt="Projetos em C Lucas Martins"></a>
+width="6%" alt="Projetos em C Lucas Martins"></a>&#160  &#160 
 <a href="#Java">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"
-width="6%" alt="Projetos em Java Lucas Martins"></a>
+width="6%" alt="Projetos em Java Lucas Martins"></a>&#160  &#160 
 </div>
 
 <h2>Excel<a name="Excel"></a></h2>
