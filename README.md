@@ -53,8 +53,11 @@ Projetos desenvolvidos em acess
 Projetos em VBA
 
 <h2>C<a name="C"></a></h2>
-Projetos em C
+<a href="https://github.com/APONTES19/APONTES19/blob/main/42SP_README.md">
+<img src="https://raw.githubusercontent.com/APONTES19/APONTES19/main/lib/img/42%20LOGO.png"
+width="20%" alt="Projetos desenvolvidos na 42 by Lucas Martins"></a>&#160  &#160 
+
 
 <h2>Java<a name="Java"></a></h2>
-Projetos em C
+Projetos em Java
 
