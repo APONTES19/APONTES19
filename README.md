@@ -2,15 +2,13 @@
 
 <table>
   <tr>    
-    <td><h3>Projetos</h3></td>    
-    <td><h3 align="center">&#160 &#160 &#160  &#160 &#160 &#160 &#160 &#160 &#160 Sobre mim</h3></td>   
+    <td><h3>Sobre Mim</h3>
+    </td>    
+  
   </tr>
  
   <tr>    
-    <td>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-    <img src="https://github.com/APONTES19/APONTES19/blob/main/lib/img/LOGO%20EXCEL.png">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">          
+    <td>        
     </td>    
     <td>
         <div align="right">
@@ -37,3 +35,7 @@
     </td>    
   </tr>
  </table>
+ ## Projetos 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+<img src="https://github.com/APONTES19/APONTES19/blob/main/lib/img/LOGO%20EXCEL.png">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">  
