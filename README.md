@@ -7,16 +7,16 @@
 width="100%" alt="Apresentação Lucas Martins"></a>
 </div>  
 <div align="left">
-<a href="https://www.linkedin.com/in/apontes19">
+<a href="https://www.linkedin.com/in/apontes19" target=”_blank”>
 <img src="https://raw.githubusercontent.com/APONTES19/APONTES19/main/lib/img/LINKEDIN%20LOGO.png"
 width="3%" alt="linkedin Lucas Martins"></a> &#160          
-<a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=apontes19@gmail.com">
+<a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=apontes19@gmail.com" target=”_blank”>
 <img src="https://raw.githubusercontent.com/APONTES19/APONTES19/main/lib/img/GMAIL%20LOGO.png"
 width="4%" alt="Email"></a> &#160          
-<a href="https://www.linkedin.com/in/apontes19">
+<a href="https://www.linkedin.com/in/apontes19" target=”_blank”>
 <img src="https://raw.githubusercontent.com/APONTES19/APONTES19/main/lib/img/DISCORD%20LOGO.png"
 width="4%" alt="linkedin Lucas Martins"></a> &#160          
-<a href="https://www.linkedin.com/in/apontes19">
+<a href="https://www.linkedin.com/in/apontes19" target=”_blank”>
 <img src="https://raw.githubusercontent.com/APONTES19/APONTES19/main/lib/img/LOGO%20SITE%20LUCAS.png"
 width="3%" alt="linkedin Lucas Martins"></a><br></br>
 </div>
