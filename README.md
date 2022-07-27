@@ -7,7 +7,10 @@
   </tr>
  
   <tr>    
-    <td>lucas</td>    
+    <td>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+    <img src="https://github.com/APONTES19/APONTES19/blob/main/lib/img/LOGO%20EXCEL.png" />  
+    </td>    
     <td>
         <div align="right">
         <a href="https://www.youtube.com/watch?v=E5khSk-Q95gE" target=”_blank”>
@@ -30,6 +33,6 @@
         &#160 &#160 &#160 &#160 &#160 &#160 &#160 &#160 &#160 &#160 &#160 &#160  &#160 &#160 &#160 &#160 &#160
         &#160 &#160 &#160 &#160 &#160 &#160
         </div>
-</td>    
+    </td>    
   </tr>
  </table>
