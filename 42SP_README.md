@@ -1,5 +1,5 @@
 <div align="right">
-  <a href="[https://github.com/APONTES19/APONTES19/blob/main/42SP_README.md](https://github.com/APONTES19)">
+  <a href="https://github.com/APONTES19">
   <img src="https://github.com/APONTES19/APONTES19/blob/main/lib/img/HOME%20LOGO.png"
   width="5%" alt="Home de Lucas Martins"></a>   
 </div>
