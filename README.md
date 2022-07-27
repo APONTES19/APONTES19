@@ -10,7 +10,7 @@
     <td>lucas</td>    
     <td>
         <div align="right">
-        <a href="https://www.youtube.com/watch?v=E5khSk-Q95gE" target="_blank">
+        <a href="https://www.youtube.com/watch?v=E5khSk-Q95gE" target=”_blank”>
         <img src="https://raw.githubusercontent.com/APONTES19/APONTES19/main/lib/img/QUEM%20ATUALIZA%20O%20BITCOIN.png"
         width="50%" alt="Apresentação Lucas Martins"></a>
         </div>  
