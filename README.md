@@ -63,4 +63,7 @@ width="10%" alt="Projetos em C by Lucas Martins"></a>&#160  &#160
 
 <h2>Java<a name="Java"></a></h2>
 Projetos em Java
-
+<br></br>
+<br></br>
+<br></br>
+<img src="https://github.com/APONTES19/APONTES19/blob/main/lib/img/RODAP%C3%89%20GIT.png" width="100%" title="Lucas Martins Apontes" alt="Engenheiro de software">
